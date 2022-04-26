@@ -1,1 +1,1 @@
-edited file
+Line 1 from master
